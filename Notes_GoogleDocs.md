@@ -1,5 +1,5 @@
 ### Page Setup
-Start by setting the page setup.
+Start with the page setup.
 
 ### Selection Trick
 Click at point 1, hold shift, click at point 2. Everything in between will be selected.
