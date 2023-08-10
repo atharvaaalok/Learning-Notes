@@ -1,17 +1,4 @@
 # Comprehensive Guide to GitHub Markdown
-Term 1
-  ~ Definition 1
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-Term 1
-:   Definition of Term 1
-Term 2
-:   One definition of Term 2
-:   Another definition of Term 2
-Term 3
-:   Definition of Term 3
 
 ## Table of Contents:
 
