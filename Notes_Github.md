@@ -12,12 +12,14 @@
    - Code
    - Blockquotes
    - Horizontal Rule
+   - Alerts
 3. [Advanced Formatting](#3-advanced-formatting)
    - Tables
    - Task Lists
    - Strikethrough
    - Mentions
    - Emoji
+   - Linking to Code
 4. [Organizing Content](#4-organizing-content)
    - Sections and Anchors
    - Collapsible Sections
@@ -151,6 +153,17 @@ Example:
 
 ---
 
+### Alerts:
+Alerts are used to emphasize critical information.
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
 
 
 ## 3. Advanced Formatting:
@@ -206,7 +219,18 @@ A footnote can also have multiple lines[^2].
 ### Comments:
 <!-- This content will not appear in the rendered Markdown -->
 
-
+# Linking to Code:
+Steps to link code snippets from a particular file.
+1. On github.com, navigate to the main page of the repository.
+1. Locate the code you'd like to link to:
+ - To link to code from a file, navigate to the file.
+ - To link to code from a pull request, navigate to the pull request and click :plusminus: Files changed. Then, browse to the file that contains the code that you want to include in your comment, and click View.
+1. Choose whether to select a single line or a range.
+ - To select a single line of code, click the line number to highlight the line.
+ - To select a range of code, click the number of the first line in the range to highlight the line of code. Then, hover over the last line of code range, press Shift, and click the line number to highlight the range.
+1. To the left of the line or range of lines, click .... In the drop-down menu, click Copy permalink.
+1. Navigate to the conversation where you want to link to the code snippet.
+1. Paste your permalink to a comment, and click Comment.
 
 ## 4. Organizing Content:
 
